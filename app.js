@@ -1,1 +1,1 @@
-var = link
+var link = " http://www.google.com";
